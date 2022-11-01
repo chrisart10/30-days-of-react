@@ -1,0 +1,53 @@
+/* Exercise 1 */
+.success {
+    color: #32cb32;
+}
+
+.fail {
+    color: rgb(225, 106, 106);
+}
+
+/* Exercise 2 part 1*/
+
+.card-ex2 {
+    text-align: center;
+    background: #F0F1F7;
+    padding: 25px;
+}
+
+.title-ex2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.img-wrapper-ex2 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.img-ex2 {
+    width: 200px;
+}
+
+/* Exercise 2 part 2 */
+/* I do inline so skip */
+
+/* Exercise 3 part 1 */
+.ex3-p1-card{
+    padding: 25px 0;
+    margin: 25px;
+}
+
+/* Exercise 3 part 2 */
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 8px;
+    margin: 4px;
+    background-color: #30D9C8;
+    color: rgb(255, 255, 255);
+    font-weight: 550;
+    border-radius: 5px;
+  }
